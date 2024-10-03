@@ -1,1 +1,1 @@
-Razlicni promeni
+Razlicni promeni za git stash, 
